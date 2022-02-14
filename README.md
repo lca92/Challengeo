@@ -1,2 +1,2 @@
 # Challengeo
-"Copying" a game I already love from scratch, just for fun.
+Can you guess all the countries in the world with an empty map?
