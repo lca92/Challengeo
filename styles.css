@@ -16,6 +16,16 @@ Color Palette
 
 */
 
+/* To hid the answers before start */
+td {
+  visibility: hidden;
+}
+
+/* To deactivate buttons */
+.unclickable {
+  pointer-events: none;
+}
+
 
 /*
                * Below are Cascading Style Sheet (CSS) definitions in use in this file,
